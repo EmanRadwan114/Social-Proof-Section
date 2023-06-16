@@ -56,9 +56,6 @@ body, h1, h2{
 .review-stars{
     background-color: var(--lightGreishMagneta);
 }
-.fa-star{
-    color: orange;
-}
 .card{
     background-color: var(--primaryColor);
 }
